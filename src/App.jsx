@@ -4,10 +4,9 @@ import How from './How';
 import NotFound from './NotFound';
 import './App.css';
 
-function App() {
+function AppRoutes() {
   return (
-    <HashRouter>
-      <Routes>
+     <Routes>
         {/* Home route */}
         <Route path="/" element={<How />} />
         
@@ -29,8 +28,16 @@ function App() {
         
         <Route path="*" element={<NotFound />} />
       </Routes>
+  );
+}
+
+function App() {
+  return (
+    <HashRouter>
+      <AppRoutes />
     </HashRouter>
   );
 }
 
+export { AppRoutes };
 export default App;

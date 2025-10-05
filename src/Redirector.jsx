@@ -19,6 +19,7 @@ const socialProfiles = {
     bluesky:`https://bsky.app/profile/${bskyHandle}`
 };
 
+
 export default function Redirector(props) {
     const location = useLocation();
     const params = useParams();
