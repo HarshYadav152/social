@@ -162,9 +162,23 @@ npm run preview
 - React Router 7
 - Vite 7
 
+## 🤝 Contributing
+
+Contributions are welcome! Please check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+
+### Ways to Contribute
+- Add support for more social platforms
+- Improve UI/UX
+- Fix bugs
+- Add features from our [Roadmap](ROADMAP.md)
+- Improve documentation
+- Report issues
+
+Please make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## 📝 License
 
-MIT
+MIT Licence
 
 ---
 
