@@ -178,9 +178,10 @@ Please make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## 📝 License
 
-MIT Licence
+MIT [LICENCE](LICENCE)
 
 ---
 
-Created with ❤️ by [Harsh Yadav](https://github.com/HarshYadav152)
+Created with ❤️ by [Harsh Yadav](https://github.com/HarshYadav152).
+
 Also check some great stuff from my side [resources](https://github.com/HarshYadav152/resources)
