@@ -23,7 +23,7 @@ A simple React application that redirects users to social media profiles using c
 ## 🚀 Demo
 
 Access the demo site and try it out:
-[https://harshyadav152.github.io/how](https://harshyadav152.github.io/how)
+[https://harshyadav152.github.io/how](https://harshyadav152.github.io/social)
 
 ## 🧰 Setup Your Own
 
